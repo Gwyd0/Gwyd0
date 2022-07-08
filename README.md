@@ -4,6 +4,6 @@
 * Linux user (arch and ubuntu)
 * Been programing since 2016
 * Has game development experience with unity and unreal engine 4
-* 🌈 Support LGBTQ+ 
+* Musician 
 
 ### Languages 
