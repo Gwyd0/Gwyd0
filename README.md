@@ -6,5 +6,5 @@
 * Has game development experience with unity and unreal engine 4
 * Musician 
 ### Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gwyd0&theme=tokyonight&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gwyd0&theme=tokyonight)
 
