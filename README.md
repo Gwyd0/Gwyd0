@@ -6,6 +6,7 @@
   <br>
   <img src="https://img.shields.io/badge/html-222222?style=for-the-badge&logo=html5">
   <img src="https://img.shields.io/badge/Java-222222?style=for-the-badge">
+    <img src="https://img.shields.io/badge/PHP-222222?style=for-the-badge&logo=php">
   <img src="https://img.shields.io/badge/Javascript-222222?style=for-the-badge&logo=javascript">
 </p>
 <strong>About Me</strong><br>
