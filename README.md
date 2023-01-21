@@ -11,8 +11,8 @@
 </p>
 <strong>About Me</strong><br>
 <ul>
-  <li> Full stack developer  </li>
-  <li> Linux user <em>(arch)</em> </li>
+  <li> i make stuff </li>
+  <li> Linux user <em>(arch lmao)</em> </li>
   <li> Game developer <em>(unity and unreal engine)</em>  </li>
   <li> Musician </li>
 </ul>
