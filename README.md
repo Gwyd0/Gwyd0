@@ -11,9 +11,9 @@
 </p>
 <strong>About Me</strong><br>
 <ul>
-  <li> i make stuff </li>
-  <li> Linux user <em>(arch lmao)</em> </li>
-  <li> Game developer sometimes <em>(unity and unreal engine)</em>  </li>
+  <li> Avid user of Ubuntu Linux</li>
+  <li> Sponser of open source projects</li>
+  <li> Game developer <em>(unity and unreal engine)</em>  </li>
   <li> Musician </li>
   <li> Addicted to python </li>
 </ul>
